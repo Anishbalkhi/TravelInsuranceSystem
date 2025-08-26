@@ -68,11 +68,12 @@ The Travel Insurance System is designed with extensibility in mind. Future enhan
 Contract ID : ST1CCXP15KBVP06Q16G228GY1E21RF5JWJS6QJ9CG.
 TravelInsuranceSystem
 ![alt text](image-1.png)
-- **Network**: Stacks Mainnet
-- **Contract Address**: [To be updated after deployment]
-- **Transaction ID**: [To be updated after deployment]  
-- **Block Height**: [To be updated after deployment]
-- **Deployment Date**: [To be updated after deployment]
+- **Network**: Stacks Testnet
+- **Contract Address**: ST1CCXP15KBVP06Q16G228GY1E21RF5JWJS6QJ9CG.
+- TravelInsuranceSystem
+- **Transaction ID**:         0x23137cf84bfcba5462ffe37eda2651cd660162a4041816824f49930890a41f5ee  
+- **Block Height**: #3528355
+- **Deployment Date**: 8/26/2025
 
 ---
 
